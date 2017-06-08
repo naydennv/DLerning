@@ -1,2 +1,2 @@
 # DLerning
-DL_cources_examples
+DL_courses_examples
